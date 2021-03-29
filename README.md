@@ -1,5 +1,5 @@
 # Nixie
-four digit nixie number display that utilizes multiplexing
+four digit nixie number display that utilizes timer peripheral on the AtMega328p to multiplex between tubes
 
 currently WIP:
 
